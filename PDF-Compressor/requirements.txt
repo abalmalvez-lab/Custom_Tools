@@ -1,0 +1,3 @@
+# PDF-Compressor.ps1 dependencies (auto-installed by the script when missing)
+# Requires Python 3.8+ (winget install Python.Python.3.13 if absent)
+pymupdf>=1.26
